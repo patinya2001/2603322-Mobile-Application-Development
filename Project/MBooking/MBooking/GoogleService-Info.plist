@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1077306852388-ol6mg8hgov2lb8iu0eql006lbr5q7qqb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1077306852388-ol6mg8hgov2lb8iu0eql006lbr5q7qqb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8cUjKvPr_FX_KdKgz8wUymMPyOjqXifk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1077306852388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>chula.cbs.stat.patinya.MBooking</string>
+	<key>PROJECT_ID</key>
+	<string>moviebooking-93749</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviebooking-93749.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1077306852388:ios:b138b4eb16368cc49144b1</string>
+</dict>
+</plist>
