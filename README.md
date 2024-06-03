@@ -24,18 +24,13 @@
 ## ตัวอย่างหน้าจอ
 
 <p>
-<img width="331" alt="2" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/c784ccea-4a6b-4c7d-8382-3fb7b4703827">
 <img width="326" alt="3" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/7ad4f757-6d5e-4f87-b2b8-cafa21fe1b8d">
-</p>
-
-<p>
 <img width="328" alt="7" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/3ae8ce76-be87-4b55-a7be-6b37bb88b87e">
-<img width="332" alt="10" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/bb7c2ec9-ef28-4b90-9efd-0748d27045bb">
 </p>
 
 <p>
+<img width="332" alt="10" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/bb7c2ec9-ef28-4b90-9efd-0748d27045bb">
 <img width="327" alt="11" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/96b35593-583e-4c48-bdd4-863948a442d9">
-<img width="1157" alt="12" src="https://github.com/patinya2001/2603322-Mobile-Application-Development/assets/149204731/994c4785-68f2-4cb1-a3a6-f52627717fec">
 </p>
 
 ## รายงาน
